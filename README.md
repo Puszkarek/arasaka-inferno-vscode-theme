@@ -1,4 +1,4 @@
-# [WIITY - Theme](https://marketplace.visualstudio.com/items?itemName=Puszkarek.wiity-theme)
+# [WIITY - Theme](https://marketplace.visualstudio.com/items/?itemName=puszkarek.wiity-vscode-theme)
 
 *What if I told you... your code editor could look like this?*
 

@@ -2,10 +2,10 @@
   "name": "wiity-vscode-theme",
   "displayName": "WIITY Theme",
   "description": "A Matrix-inspired retro green terminal theme for VSCode. Free your mind.",
-  "repository": "https://github.com/Puszkarek/witty-vscode-theme",
+  "repository": "https://github.com/Puszkarek/wiity-vscode-theme",
   "publisher": "Puszkarek",
   "icon": "assets/icon.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -18,6 +18,16 @@
         "label": "Wiity: Green",
         "uiTheme": "vs-dark",
         "path": "./themes/green-color-theme.json"
+      },
+      {
+        "label": "Wiity: Full Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/green-full-color-theme.json"
+      },
+      {
+        "label": "Wiity: Full (Almost) Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/green-almost-full-color-theme.json"
       },
       {
         "label": "Wiity: Green (Eye-Friendly)",
