@@ -1,6 +1,6 @@
-# [WIITY - Theme](https://marketplace.visualstudio.com/items/?itemName=puszkarek.wiity-vscode-theme)
+# [WIITY - Theme](https://marketplace.visualstudio.com/items?itemName=puszkarek.wiity-vscode-theme)
 
-*What if I told you... your code editor could look like this?*
+_What if I told you... your code editor could look like this?_
 
 ## Screenshots
 
@@ -29,6 +29,7 @@ To use the WIITY Theme in VSCode:
 - Custom UI elements that complete the digital rain experience
 
 ## Recommended Font
+
 - [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)
 
 ## The Choice is Yours
