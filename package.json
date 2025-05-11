@@ -1,11 +1,11 @@
 {
-  "name": "wiity-vscode-theme",
-  "displayName": "WIITY Theme",
+  "name": "arasaka-inferno-vscode-theme",
+  "displayName": "Arasaka Inferno Theme",
   "description": "A Matrix-inspired retro green terminal theme for VSCode. Free your mind.",
-  "repository": "https://github.com/Puszkarek/wiity-vscode-theme",
+  "repository": "https://github.com/Puszkarek/arasaka-inferno-vscode-theme",
   "publisher": "Puszkarek",
   "icon": "assets/icon.png",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -15,24 +15,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Wiity: Green",
+        "label": "Arasaka Inferno",
         "uiTheme": "vs-dark",
-        "path": "./themes/green-color-theme.json"
+        "path": "./themes/red-color-theme.json"
       },
       {
-        "label": "Wiity: Full Green",
+        "label": "Arasaka Inferno: Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/green-full-color-theme.json"
-      },
-      {
-        "label": "Wiity: Full (Almost) Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/green-almost-full-color-theme.json"
-      },
-      {
-        "label": "Wiity: Green (Eye-Friendly)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/green-eye-friendly-color-theme.json"
+        "path": "./themes/blue-color-theme.json"
       }
     ]
   }
