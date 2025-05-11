@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.0] - 2025-05-11
 
 - Initial release
+
+## [1.0.1] - 2025-05-11
+
+- Fix scroll/minimap color
