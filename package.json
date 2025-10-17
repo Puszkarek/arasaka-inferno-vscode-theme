@@ -1,11 +1,11 @@
 {
   "name": "arasaka-inferno-vscode-theme",
   "displayName": "Arasaka Inferno Theme",
-  "description": "A Matrix-inspired retro green terminal theme for VSCode. Free your mind.",
+  "description": "A Cyberpunk 2077-inspired dark theme for VSCode with Arasaka red, blue, and pink variants. Wake up, Samurai.",
   "repository": "https://github.com/Puszkarek/arasaka-inferno-vscode-theme",
   "publisher": "Puszkarek",
   "icon": "assets/icon.png",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -23,6 +23,11 @@
         "label": "Arasaka Inferno: Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/blue-color-theme.json"
+      },
+      {
+        "label": "Arasaka Inferno: Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink-color-theme.json"
       }
     ]
   }

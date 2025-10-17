@@ -2,7 +2,9 @@
 
 _"Wake up, Samurai. We’ve got code to burn."_
 
-A VS Code theme that plunges your editor into the neon-soaked, corporate dystopia of **Night City**. Built for netrunners, chromed-up coders, and anyone who’d rather burn Arasaka than write a single line of legacy code.
+A cyberpunk VS Code theme inspired by Cyberpunk 2077 that plunges your editor into the neon-drenched, corporate dystopia of **Night City**. Built for netrunners, chromed-up coders, and anyone who'd rather burn Arasaka than write a single line of legacy code.
+
+**Keywords:** cyberpunk, Cyberpunk 2077, Night City, Arasaka, dark theme, neon, retro-futuristic, dystopian, hacker theme, chrome, corporate rebellion, VS Code theme
 
 ---
 
